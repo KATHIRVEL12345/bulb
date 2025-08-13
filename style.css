@@ -1,0 +1,37 @@
+body{
+    background: black;
+    colour: rgb(17, 133, 235);
+
+
+}
+.container{
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+img{
+    height: 350px;
+    width: 250;
+    margin-top: 50px;
+}
+#btn1{
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: transparent;
+    background: white;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+}
+#btn2{
+      height: 50px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: transparent;
+    background: white;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+}
